@@ -1,4 +1,4 @@
-# Hey! I'm Jason 😼!
+# Hey, I'm Jason 😼!
 
 I’m a third-year Computer Science student at McMaster University, passionate about full-stack and iOS development.  
 Welcome to my GitHub profile!
@@ -10,7 +10,7 @@ When I'm not busy smashing my keyboard I like to:
 
 
 ## Techstack
-[![My Skills](https://skillicons.dev/icons?i=py,js,swift,ts,java,html,css,react,express,firebase,nodejs,tailwind,nextjs,postgres,selenium,github,vscode,figma,notion,ps,apple&perline=7
+[![My Skills](https://skillicons.dev/icons?i=py,js,swift,ts,java,html,css,react,express,firebase,nodejs,tailwind,nextjs,postgres,selenium,github,vscode,figma,notion,ps,apple,windows&perline=10
 )](https://skillicons.dev)
 
 ## Projects
