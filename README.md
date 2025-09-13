@@ -2,7 +2,7 @@
 
 I’m a third-year Computer Science student at McMaster University, passionate about full-stack and iOS development.
 
-When I'm not busy smashing my keyboard I like to:
+During my off time, I like to:
 - throw around heavy circles at the gym
 - destroying local pickup basketball at la fitness
 - cooking and trying new recipes
