@@ -1,7 +1,6 @@
 # Hey, I'm Jason 😼!
 
-I’m a third-year Computer Science student at McMaster University, passionate about full-stack and iOS development.  
-Welcome to my GitHub profile!
+I’m a third-year Computer Science student at McMaster University, passionate about full-stack and iOS development.
 
 When I'm not busy smashing my keyboard I like to:
 - throw around heavy circles at the gym
