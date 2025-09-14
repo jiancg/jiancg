@@ -9,7 +9,7 @@ During my off time, I like to:
 
 
 ## Techstack
-[![My Skills](https://skillicons.dev/icons?i=py,js,swift,ts,java,html,css,react,express,firebase,nodejs,tailwind,nextjs,postgres,selenium,github,vscode,figma,notion,ps,apple,windows&perline=10
+[![My Skills](https://skillicons.dev/icons?i=py,js,swift,ts,java,html,css,react,express,firebase,nodejs,tailwind,nextjs,postgres,selenium,github,vscode,figma,notion,ps,apple,windows&perline=11
 )](https://skillicons.dev)
 
 ## Projects
