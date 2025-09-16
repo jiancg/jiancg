@@ -1,4 +1,4 @@
-# Hey, I'm Jason 😼!
+# Hey, I'm Jason!
 
 I’m a third-year Computer Science student at McMaster University, passionate about full-stack and iOS development.
 
