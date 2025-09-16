@@ -15,7 +15,7 @@ During my off time, I like to:
 ## Projects
 - 💫 [Mactracc](https://mactracc.xyz/): campus helper for McMaster: view vendors, track library occupancy, and get key date alerts
 - 💫 [Apple Store Monitor](https://github.com/jiancg/Apple-Store-Monitor): track in-store availability and get alerts for product restocks
-- 💫 [Personal Portfolio](https://github.com/jiancg/Personal-Site): highlights me and my music taste
+- 💫 [Personal Site](https://github.com/jiancg/Personal-Site): highlights me and my music taste
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/jian-guan/)
