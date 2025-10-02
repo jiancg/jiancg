@@ -3,8 +3,8 @@
 I’m a third-year Computer Science student at McMaster University, passionate about full-stack and iOS development.
 
 During my off time, I like to:
-- throw around heavy circles at the gym
-- destroying local pickup basketball at la fitness
+- lift heavy in the gym
+- destroying local pickup basketball @ la fitness
 - cooking and trying new recipes
 
 
